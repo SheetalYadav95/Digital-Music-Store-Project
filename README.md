@@ -5,30 +5,30 @@ This Project will show the various aspects of data through different SQL queries
 
 ## Database and Tools
 
-**Excel**
+Excel
 
 
-**Postgre SQL**
+Postgre SQL
 
 
-**Pg Admin 4**
+Pg Admin 4
 
 
-**Power BI**
+Power BI
 
 
 ## Overview of the Project :
 
-**Created Database in Postgre SQL**
+Created Database in Postgre SQL
 
 
-**Uesd CSV files to create tables in the database**
+Used CSV files to create tables in the database
 
 
-**Perform various Analyses on the Data using SQL Queries**
+Perform various Analyses on the Data using SQL Queries
 
 
-**Created Views to connect the data to Power BI**
+Created Views to connect the data to Power BI
 
 
-**Designed an Interactive Dashboard to visualize the insights gathered from the data**
+Designed an Interactive Dashboard to visualize the insights gathered from the data
